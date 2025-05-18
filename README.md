@@ -1,7 +1,7 @@
 
 # FLoRA
 
-Official codebase for [FLoRA: Sample-Efficient Preference-based RL via Low-Rank Style Adaptation of Reward Functions](https://arxiv.org/).  
+Official codebase for [FLoRA: Sample-Efficient Preference-based RL via Low-Rank Style Adaptation of Reward Functions](https://arxiv.org/abs/2504.10002).  
 This repository includes installation instructions and scripts to reproduce our experiments.
 
 - 📹 For videos of our policies, visit the [project website](https://sites.google.com/view/preflora/).  
